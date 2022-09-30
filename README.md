@@ -11,7 +11,7 @@
 
 * Easy to use
 * Bypass multiple AVs/EDRs/XDRs
-* Two XOR encryption process and an obfuscation
+* Two XOR encryption process and an obIMG_20220930_052458.jpgfuscation
 * The generated file is less than 7mb
 * Using custom shellcode
 * Fake signature on executable
@@ -27,7 +27,7 @@
 
 ## Help
 
-![](assets/help.png)
+![](assets/IMG_20220930_052458.jpg)
 
 
 ## Usage
