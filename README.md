@@ -1,7 +1,6 @@
 <h1 align="center">「🛡️」About Condor</h1>
 
-<p align="center"><img src="assets/banner.png"></p>
-
+<p align="center"><img src="assets/IMG_20220930_052112.jpg
 <p align="center">Condor is a tool created to help pentesters bypass protections like AVs/EDRs/XDRs in the Windows operating system. Condor was developed in Python and has several advantages to help pentesters.</p>
 
 ## Executable Scan
