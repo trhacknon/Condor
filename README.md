@@ -36,7 +36,7 @@
 It is recommended to run the tool in a WSL environment, as you will need to generate shellcodes using msfvenom and compile to EXE using pyinstaller.
 
 ```
-$ git clone https://github.com/MrEmpy/Condor.git
+$ git clone https://github.com/trhacknon/Condor.git
 $ cd Condor
 $ chmod +x install.sh
 $ sudo ./install.sh
